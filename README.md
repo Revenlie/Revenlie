@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://i.pinimg.com/originals/c7/b0/5a/c7b05a2bcc7d09c7f8454bdf1991da96.png"/>
+  <img src="https://images.app.goo.gl/cpFqZJLnLDoEBRW7A"/>
 </div><br />
 
 <h1 align="center">Hi 👋, I'm Reven Rudy Ishak</h1>
