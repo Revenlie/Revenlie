@@ -2,7 +2,7 @@
   <img src="https://wallpapercave.com/wp/wp5196877.jpg"/>
 </div><br />
 
-<h1 align="center">Hi 👋, I'm Reven Rudy Ishak</h1>
+<h1 align="center">Hi there 👋, I'm Reven Rudy Ishak. Welcome to my profile ✌🏻</h1>
 <h3 align="center">A College Student From University of Multi Data Palembang Majoring of Information System.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revenlie&label=Profile%20views&color=0e75b6&style=flat" alt="revenlie" /> </p>
