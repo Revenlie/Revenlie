@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I'm really friendly**
 
-- 😊😊 **Let's be friend !**
+- 😊 **Let's be friend !**
 
 - **👩🏻‍💻==👩🏻‍💻**
 
