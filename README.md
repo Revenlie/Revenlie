@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, HTML and CSS**
 
-- 💬 Ask me about **Everything you want**
+- 💬 Ask me about **life goals, technology, film and music 🎼**
 
 - 📫 How to reach me **revenrudyishak@mhs.mdp.ac.id**
 
