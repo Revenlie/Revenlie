@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://wallpapercave.com/wp/wp6919852.jpg"/>
+  <img src="https://wallpapercave.com/wp/wp6919852.jpg](https://wallpapercave.com/wp/wp5196877.jpg"/>
 </div><br />
 
 <h1 align="center">Hi 👋, I'm Reven Rudy Ishak</h1>
