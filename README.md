@@ -7,6 +7,7 @@
 <h3 align="center">A College Student From University of Multi Data Palembang Majoring of Information System.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revenlie&label=Profile%20views&color=0e75b6&style=flat" alt="revenlie" /> </p>
+                                                                                                                                      <img align"right" alt=Coding" width="400" src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif">
 
 - 🌱 I’m currently learning **Java, HTML and CSS**
 
