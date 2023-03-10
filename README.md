@@ -1,6 +1,6 @@
 <div align="center"> 
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX2Rc0ZQZqmD-2xsdCUncaDqsCPD8XRepwmw2k03VLhHzPYUV8rztRBIMrr9BgnzeiBybmmgORwn8Ydze2SUkyBqDIt8QhWvDay_aOFHpa_IQLoXwuDHiHD5d4iEfsKSSm0jmRx5zaM7Q5eegW7RCsoffxU64dZdp5iW4uInZK5GLY40AHSjOe1KWR/s1366/20230309_224825_0000.png"/>
-  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif">
+  <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif">
 </div><br />
 
 <h1 align="center">Hi there 👋, I'm Reven Rudy Ishak. Welcome to my profile ✌🏻</h1>
